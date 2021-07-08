@@ -31,7 +31,7 @@ I have already developed solutions for important business problems such as sales
    <strong> Links:
 <a href="https://www.linkedin.com/in/joão-victor-duarte//" rel="nofollow noreferrer noopener" target="_blank"><img src="https://user-content.gitlab-static.net/02ceec3caed6c21941c4f98cf95e20fd01dbcc19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=LinkedIn&amp;logoColor=white" class="js-lazy-loaded qa-js-lazy-loaded" loading="lazy"></a>
   
-  
+ <a href="mailto:victorduarte.ufrj@gmail.com"><img src="https://user-content.gitlab-static.net/5231c3d4f8d0cd911abde446a8f0193669905e42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d65696761726f6d6c6f70657340676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:meigaromlopes@gmail.com" class="js-lazy-loaded qa-js-lazy-loaded" loading="lazy"></a>
      
 
 <!---
