@@ -19,7 +19,7 @@ I have already developed solutions for important business problems such as sales
   
   
  <strong> Data Collecting </strong>: 
-     PostGres, SQL, MySQL
+     PostGres, SQL, MySQL, Oracle.
   
   <strong> Data Processing and Analysis </strong>: Python (Numpy, Pandas, Matplotlib, Seaborn, Selenium, Sklearn, Tensorflow etc)
   
