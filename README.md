@@ -5,11 +5,12 @@ The main objective of this data science personal project portfolio is to demonst
 
 Who am I?
 - 👨‍💻 I'm passionate about techonoly and how it have been changing the world
-- 📈 I’m Economics and Data Scientist student.
-- 💻 I'm currently learning about Data Science and Machine Learning with hands on projects
+- 📈 I’m Economics and software developer/data scientst student.
+- 💻 I'm currently learning about JavaScript with hands on projects
 I have studied Machine Learning since 2020 and have 5 month of experience as a Data Scientist at "Comunidade Data Science", developing full hand's on project, such as Regressions, Classifications and clusterization projects. Also I've been learning make a deploy of models through tools such as Streamlit, ie. 
-Also I'm economics research intern at IBRE (Instituto Brasileiro de Economia) since march/21. 
+Also I'm full stack web developer at JGP Asset Management since march/21. 
 I have already developed solutions for important business problems such as sales forecasting, clusterization of best customers and classification the best customers for cross-selling champagne.
+
 
 
 
