@@ -4,7 +4,7 @@
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
 Who am I?
-- 👨‍💻 I'm passionate about data and how it have been changing the world
+- 👨‍💻 I'm passionate about techonoly and how it have been changing the world
 - 📈 I’m Economics and Data Scientist student.
 - 💻 I'm currently learning about Data Science and Machine Learning with hands on projects
 I have studied Machine Learning since 2020 and have 5 month of experience as a Data Scientist at "Comunidade Data Science", developing full hand's on project, such as Regressions, Classifications and clusterization projects. Also I've been learning make a deploy of models through tools such as Streamlit, ie. 
