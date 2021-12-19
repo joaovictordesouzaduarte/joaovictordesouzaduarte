@@ -27,6 +27,7 @@ I have already developed solutions for important business problems such as sales
   <strong> Development: Linux
     
    <strong> Machine Learning Modeling: Classification, Regression, Clustering.
+   <strong> Frontend: Javascript (React) ~ Learning
      
      
    <strong> Links:
