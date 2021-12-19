@@ -16,7 +16,7 @@ Also I'm full stack web developer at JGP Asset Management since march/21, workin
  <strong> Data Collecting </strong>: 
      PostGres, SQL, MySQL, Oracle.
   
-  <strong> Data Processing </strong>: Python (Numpy, Pandas, Matplotlib, Seaborn, Selenium, FastAPI)
+  <strong> Data Processing </strong>: Python (Numpy, Pandas, Matplotlib, Seaborn, Selenium, Plotly and FastAPI)
     
   <strong> Frontend: Javascript (React) ~ Learning
      
