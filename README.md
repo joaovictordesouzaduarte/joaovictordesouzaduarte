@@ -8,7 +8,7 @@ Who am I?
 - 📈 I’m Economics and software developer/data scientst student.
 - 💻 I'm currently learning about JavaScript with hands on projects
 I have studied Machine Learning since 2020 and have 5 month of experience as a Data Scientist at "Comunidade Data Science", developing full hand's on project, such as Regressions, Classifications and clusterization projects. Also I've been learning make a deploy of models through tools such as Streamlit, ie. 
-Also I'm full stack web developer at JGP Asset Management since oct/21, working with hands on project envolving mainly Python to backend (FastAPI, Pandas, Numpy etc) and Javascript, HTML and CSS to frontend. 
+Also I'm full stack web developer intern at JGP Asset Management since oct/21, working with hands on project envolving mainly Python to backend (FastAPI, Pandas, Numpy etc) and Javascript, HTML and CSS to frontend. 
 <strong> Analytics Tools 
  
   
