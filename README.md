@@ -16,9 +16,9 @@ Also I'm full stack web developer intern at JGP Asset Management since oct/21, w
  <strong> Data Collecting </strong>: 
      PostGres, SQL, MySQL, Oracle.
   
-  <strong> Data Processing </strong>: Python (Numpy, Pandas, Matplotlib, Seaborn, Selenium, Plotly and FastAPI)
+  <strong> Backend </strong>: Python (Numpy, Pandas, Matplotlib, Seaborn, Selenium, Plotly and FastAPI) and Node.js (Learning right now)
     
-  <strong> Frontend: Javascript (React) ~ Learning
+  <strong> Frontend: HTML, CSS and Javascript (Learning React right now)
      
      
    <strong> Links:
