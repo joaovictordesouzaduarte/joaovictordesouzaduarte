@@ -18,7 +18,7 @@ Also I'm full stack web developer intern at JGP Asset Management since oct/21, w
   
   <strong> Backend </strong>: Python (Numpy, Pandas, Matplotlib, Seaborn, Selenium, Plotly and FastAPI) and Node.js (Learning right now)
     
-  <strong> Frontend: HTML, CSS and Javascript (Learning React right now)
+  <strong> Frontend: HTML, CSS (Bootstrap) and Javascript (Learning React right now)
      
      
    <strong> Links:
