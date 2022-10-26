@@ -1,7 +1,7 @@
 <h1> Hi there, I'm João Victor Duarte 👋 </h1>
 <em>  </em>
 
-The main objective of this web development personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Software Developemnts
+The main objective of this web development personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Software Developments
 
 Who am I?
 - 👨‍💻 I'm passionate about techonoly and how it have been changing the world
