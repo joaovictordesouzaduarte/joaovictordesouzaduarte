@@ -4,8 +4,8 @@
 The main objective of this web development personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Software Developments
 
 Who am I?
-- 👨‍💻 I'm passionate about techonoly and how it have been changing the world
-- 📈 I’m Economist and software developer/data scientst student.
+- 👨‍💻 I'm passionate about technology and how it have been changing the world
+- 📈 I’m Economist and software developer.
 - 💻 I'm currently learning about JavaScript with hands on projects
 I'm full stack web developer at JGP Asset Management since oct/21, working with hands on project envolving mainly Python to backend (FastAPI, Pandas, Numpy, SQLAlchemy etc) and Javascript, HTML and CSS to frontend. 
 
