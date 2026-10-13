@@ -26,7 +26,7 @@ Python • SQL • PySpark • JavaScript • Bash
 
 **Data Engineering & Processing**
 
-Apache Spark • Databricks • Delta Lake • Apache Iceberg • Apache Airflow • dbt • Pandas • Polars
+Apache Spark • Databricks • Delta Lake • Apache Iceberg • Apache Airflow • dbt • Pandas • Polars • EMR
 
 **Cloud & Data Platforms**
 
