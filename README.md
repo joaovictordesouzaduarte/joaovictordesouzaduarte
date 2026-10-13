@@ -1,6 +1,6 @@
 # Hi, I'm João Victor Duarte 👋
 
-### Data Engineer | Python • SQL • Apache Spark • AWS • Databricks
+### Senior Data Engineer | Python • SQL • Apache Spark • AWS • Databricks
 
 I'm a **Data Engineer with a background in Economics and Software Engineering**, specializing in building scalable data pipelines, integrating heterogeneous data sources, and designing reliable, high-performance data solutions.
 
