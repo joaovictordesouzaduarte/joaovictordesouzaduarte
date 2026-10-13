@@ -1,20 +1,68 @@
-<h1> Hi there, I'm João Victor Duarte 👋 </h1>
-<em>  </em>
+# Hi, I'm João Victor Duarte 👋
 
-The main objective of this web development personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Software Developments
+### Data Engineer | Python • SQL • Apache Spark • AWS • Databricks
 
-Who am I?
-- 👨‍💻 I'm passionate about technology and how it have been changing the world
-- 📈 I’m Economist and software developer.
-- 💻 I'm currently learning about JavaScript with hands on projects
-I'm full stack web developer at JGP Asset Management since oct/21, working with hands on project envolving mainly Python to backend (FastAPI, Pandas, Numpy, SQLAlchemy etc) and Javascript, HTML and CSS to frontend. 
+I'm a **Data Engineer with a background in Economics and Software Engineering**, specializing in building scalable data pipelines, integrating heterogeneous data sources, and designing reliable, high-performance data solutions.
 
- <strong> Data Collecting </strong>: 
-     PostGres, SQL, MySQL, Oracle.
-  
-  <strong> Backend </strong>: Python (Numpy, Pandas, Django, Matplotlib, Seaborn, Selenium, Plotly and FastAPI) and Docker/Kubernetes
-    
-  <strong> Frontend: HTML, CSS (Bootstrap) and Javascript (Learning React right now)
+I have hands-on experience in the financial industry, developing data-intensive applications and automating business-critical processes. My work combines **data engineering, software development, and cloud technologies** to transform complex data into reliable, actionable information.
+
+Currently pursuing an **MBA in Data Engineering & Big Data**, with a strong focus on distributed data processing, Lakehouse architectures, cloud infrastructure, and data platform optimization.
+
+### 🚀 What I Do
+
+- **Data Engineering:** Design and develop ETL/ELT pipelines to ingest, process, validate, and transform data from databases, APIs, files, and external systems.
+- **Big Data & Distributed Processing:** Work with Apache Spark, PySpark, Spark SQL, and modern table formats such as Delta Lake and Apache Iceberg.
+- **Cloud & Lakehouse Architecture:** Build and explore cloud-native data solutions leveraging AWS, Databricks, and Bronze/Silver/Gold architectures.
+- **Data Orchestration:** Automate and orchestrate data workflows using Apache Airflow and Python.
+- **Performance Optimization:** Improve data processing efficiency through query tuning, partitioning strategies, execution plan analysis, and resource optimization.
+- **Software Engineering:** Develop Python-based APIs, backend services, and internal applications that support business operations and data-driven decisions.
+- **Infrastructure & DevOps:** Work with Docker, Terraform, Git, and CI/CD practices to support reproducible and maintainable data solutions.
+
+### 🛠️ Tech Stack
+
+**Languages & Core Technologies**
+
+Python • SQL • PySpark • JavaScript • Bash
+
+**Data Engineering & Processing**
+
+Apache Spark • Databricks • Delta Lake • Apache Iceberg • Apache Airflow • dbt • Pandas
+
+**Cloud & Data Platforms**
+
+AWS (S3, Glue, Athena, Redshift, DMS, Lambda, Kinesis) • Databricks • Snowflake
+
+**Databases & Storage**
+
+Oracle • PostgreSQL • MySQL • Amazon Redshift • Parquet
+
+**Backend & Integration**
+
+FastAPI • REST APIs • Selenium • Web Scraping
+
+**Infrastructure & DevOps**
+
+Docker • Terraform • Git • GitLab • CI/CD • Linux
+
+### 🎯 Engineering Interests
+
+I'm particularly interested in solving complex data engineering challenges involving:
+
+- Scalable batch and streaming data pipelines
+- Lakehouse architecture and modern data platforms
+- Distributed processing and Spark performance tuning
+- Data quality, reliability, and observability
+- Data modeling and analytical workloads
+- Cloud infrastructure and cost optimization
+- Data platform design and engineering best practices
+
+### 🌎 Let's Connect
+
+I'm always interested in discussing Data Engineering, distributed systems, cloud architecture, and opportunities to build impactful data solutions.
+
+**Open to international Data Engineering opportunities.**
+
+
  
      
      
